@@ -20,7 +20,7 @@
 
 ## Steps to build the app
 - Clone repo (pod files are included)
-- Open `TMDB-sample-app.xcworkspace` in XCode
+- Open `Ben-MovieApp.xcworkspace` in XCode
   - Select Target TMDB-sample-app (pre-selected)
   - Choose simulator/device of choice
 - Click on Run
