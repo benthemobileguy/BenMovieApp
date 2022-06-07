@@ -1,4 +1,4 @@
-# Movie App
+# Movie App (Swift UI)
 <img src="https://img.shields.io/badge/status-Active-green" height="20"> <img src="https://img.shields.io/github/issues/adumrewal/tmdb-ios-app" height="20"> <img src="https://img.shields.io/github/stars/adumrewal/tmdb-ios-app" height="20"> <img src="https://img.shields.io/github/license/adumrewal/tmdb-ios-app" height="20"> <img src="https://img.shields.io/badge/architecture-MVVM-yellow" height="20"> <img src="https://img.shields.io/badge/language-Swift-yellow" height="20"> 
 
 
