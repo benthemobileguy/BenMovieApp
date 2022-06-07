@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0C2CABCB261249EC00160C82"
-               BuildableName = "TMDB-sample-app.app"
+               BuildableName = "Ben-MovieApp.app"
                BlueprintName = "Ben-MovieApp"
                ReferencedContainer = "container:Ben-MovieApp.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0C2CABE1261249F300160C82"
-               BuildableName = "TMDB-sample-appTests.xctest"
+               BuildableName = "Ben-MovieAppTests.xctest"
                BlueprintName = "Ben-MovieAppTests"
                ReferencedContainer = "container:Ben-MovieApp.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0C2CABEC261249F300160C82"
-               BuildableName = "TMDB-sample-appUITests.xctest"
+               BuildableName = "Ben-MovieAppUITests.xctest"
                BlueprintName = "Ben-MovieAppUITests"
                ReferencedContainer = "container:Ben-MovieApp.xcodeproj">
             </BuildableReference>
@@ -65,7 +65,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0C2CABCB261249EC00160C82"
-            BuildableName = "TMDB-sample-app.app"
+            BuildableName = "Ben-MovieApp.app"
             BlueprintName = "Ben-MovieApp"
             ReferencedContainer = "container:Ben-MovieApp.xcodeproj">
          </BuildableReference>
@@ -82,7 +82,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0C2CABCB261249EC00160C82"
-            BuildableName = "TMDB-sample-app.app"
+            BuildableName = "Ben-MovieApp.app"
             BlueprintName = "Ben-MovieApp"
             ReferencedContainer = "container:Ben-MovieApp.xcodeproj">
          </BuildableReference>
