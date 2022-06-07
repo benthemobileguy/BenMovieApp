@@ -3,6 +3,7 @@
 
 
 ## Features of the app
+- Search feature to filter movie list
 - Language: Swift
 - Networking: URLSession
 - Favourites Tab to save movies
