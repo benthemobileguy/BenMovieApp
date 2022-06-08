@@ -2,17 +2,18 @@
 <img src="https://img.shields.io/badge/status-Active-green" height="20"> <img src="https://img.shields.io/github/issues/adumrewal/tmdb-ios-app" height="20"> <img src="https://img.shields.io/github/stars/adumrewal/tmdb-ios-app" height="20"> <img src="https://img.shields.io/github/license/adumrewal/tmdb-ios-app" height="20"> <img src="https://img.shields.io/badge/architecture-MVVM-yellow" height="20"> <img src="https://img.shields.io/badge/language-Swift-yellow" height="20"> 
 
 
-## Features of the app
-- Search feature to filter movie list
+## Technical Details
 - Language: Swift
 - Networking: URLSession
+- Offline Caching using CoreData Database
+- Architecture: MVVM
+- [Nuke](https://cocoapods.org/pods/Nuke) for fetching and caching images
+- 
+## Features of the app
+- Search feature to filter movie list
 - Favourites Tab to save movies
 - Movie Details
 - Pagination
-- Offline Caching using CoreData Database
-- Pagination
-- Architecture: MVVM
-- [Nuke](https://cocoapods.org/pods/Nuke) for image fetching and caching
 
 ## Screenshots
 |Now Playing|Saved Items|Movie Detail View|
